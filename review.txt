@@ -1,0 +1,17 @@
+Chapter 2 - Review
+
+- $_SERVER is a predefined variable
+
+- $ 
+
+- any letter or an underscore can be at the start of the variable name after the $,  after the first character then any letter, number or underscore can be used in the variable name.
+
+- case sensitive
+
+- scalar means is contains a single value, ie $my_number=10;  non-scalar refers to variables suchas arrays and objects
+
+- the = sign is the assignment operator
+
+- a great debugging technique is to print out the values of variables
+
+- double quotes will get extrapolated,  single quotes will be treated literally
