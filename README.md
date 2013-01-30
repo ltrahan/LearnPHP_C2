@@ -1,3 +1,3 @@
 LearnPHP_C2
 ===========
-This is the files for Chapter 2
+These are the files for Chapter 2
